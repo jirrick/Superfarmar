@@ -1,0 +1,11 @@
+-----------SuperFarmar Help-----------
+Availible commands:
+new
+list
+start
+stop
+export
+import
+help
+quit
+--------------------------------------
